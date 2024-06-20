@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WonderSnow
 - 👀 I’m interested in Mathematics, and Programming
-- 🌱 I’m currently learning the Python Programming Language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning the Python and Java Programming Language
+- 💞️ I’m looking to collaborate on programming related projects.
+- 📫 You may reach out to Mr on Facebook.
 
 <!---
 WonderSnow/WonderSnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
